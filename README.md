@@ -1,2 +1,2 @@
 # LetsUpgrade-python
-assignment_1
+assignment_1/day_2
